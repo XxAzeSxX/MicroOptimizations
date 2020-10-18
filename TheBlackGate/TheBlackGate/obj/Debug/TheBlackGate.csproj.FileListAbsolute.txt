@@ -1,0 +1,6 @@
+C:\Users\Thomas\source\repos\TheBlackGate\TheBlackGate\bin\Debug\TheBlackGate.exe.config
+C:\Users\Thomas\source\repos\TheBlackGate\TheBlackGate\bin\Debug\TheBlackGate.exe
+C:\Users\Thomas\source\repos\TheBlackGate\TheBlackGate\bin\Debug\TheBlackGate.pdb
+C:\Users\Thomas\source\repos\TheBlackGate\TheBlackGate\obj\Debug\TheBlackGate.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\TheBlackGate\TheBlackGate\obj\Debug\TheBlackGate.exe
+C:\Users\Thomas\source\repos\TheBlackGate\TheBlackGate\obj\Debug\TheBlackGate.pdb
